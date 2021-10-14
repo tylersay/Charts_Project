@@ -1,0 +1,28 @@
+{
+  "name": "bigmaca",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@antv/g2": "^4.1.30",
+    "antd": "^4.16.13",
+    "chart.js": "^3.5.1",
+    "chart.js-rangeslider": "^1.2.5",
+    "dotenv": "^10.0.0",
+    "react": "^17.0.0",
+    "react-chartjs-2": "^3.0.5",
+    "react-dom": "^17.0.0",
+    "react-dropdown-select": "^4.7.4",
+    "react-google-charts": "^3.0.15",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "styled-components": "^5.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.6.4"
+  }
+}
